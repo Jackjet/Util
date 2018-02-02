@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\git\Util\utils-library\src\main\AndroidManifest.xml:1:1-2:31
+INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml:1:1-2:31
+INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml:1:1-2:31
+INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml:1:1-2:31
+INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml:1:1-2:31
+INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml:1:1-2:31
+INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml:1:1-2:31
+	package
+		ADDED from I:\git\Util\utils-library\src\main\AndroidManifest.xml:2:5-28
+		INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+		INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+		ADDED from I:\git\Util\utils-library\src\main\AndroidManifest.xml:1:1-2:31
+		INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+		ADDED from I:\git\Util\utils-library\src\main\AndroidManifest.xml:1:1-2:31
+		INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\git\Util\utils-library\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+		ADDED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+		INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+		ADDED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
+		INJECTED from I:\git\Util\utils-library\src\main\AndroidManifest.xml
